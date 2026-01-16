@@ -125,13 +125,21 @@
 
 ### **AI & Voice**
 - **Google Gemini AI** - Symptom analysis and chat
-- **OmniDimension Voice API** - Automated voice calls
+- **Google Vertex AI** - AI model deployment and scalable inference
+- **Google MoveNet** - Human pose estimation for rehabilitation and activity tracking
 - **Custom Voice Agents** - Healthcare-specific AI assistants
 
 ### **Real-time Features**
 - **WebSocket** - Live chat and notifications
 - **PWA** - Offline capabilities and push notifications
 - **Geolocation API** - Emergency location services
+- **Google Maps Platform** - Hospital locator and emergency routing
+
+### **Backend & Cloud**
+- **Google Cloud Run** - Serverless backend deployment
+- **Google Firebase Authentication** - Secure patient and doctor login
+- **Google Firestore** - Patient data and application storage
+- **Google Cloud Storage** - Medical images and reports storage
 
 ### **Development Tools**
 - **React Hook Form** - Form management

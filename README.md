@@ -10,7 +10,7 @@
 ## 🎥 Project Demo
 
 📽️ **Demo Video (Google Drive):**  
-🔗 https://drive.google.com/drive/folders/1VM3uZ65lVb6jLSNJb74UIO2n4k13Glvm?usp=sharing
+🔗 https://drive.google.com/file/d/17XLnxcf02FLf1ROFrcVOulaGA0EBZiyw/view?usp=drive_link
 
 
 ---
